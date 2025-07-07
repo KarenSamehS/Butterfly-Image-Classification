@@ -1,4 +1,4 @@
-```markdown
+
 # Butterfly Image Classification
 
 A Computer Vision project developed during an internship to classify butterfly species using a custom Convolutional Neural Network (CNN).
