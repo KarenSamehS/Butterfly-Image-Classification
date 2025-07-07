@@ -35,7 +35,7 @@ A Computer Vision project developed during an internship to classify butterfly s
 ## Usage
 1. Run the notebook:
    ```bash
-   jupyter notebook classification-task\ \(2\).ipynb
+   jupyter notebook classification-task.ipynb
    ```
 2. Execute cells to train the model and view results.
 3. For TensorBoard visualization, run locally:
