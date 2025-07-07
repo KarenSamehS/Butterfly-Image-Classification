@@ -56,8 +56,11 @@ A Computer Vision project developed during an internship to classify butterfly s
 
 ## Notes
 - The model was trained on Kaggle’s environment; adjust file paths for local use.
-- <img src="Accuracy.png" alt="Accuracy Chart"> visualizes the model’s performance over time.
-- <img src="Loss.png" alt="TensorBoard Screenshot"> shows training and validation curves.
+  
+- <img src="Accuracy.png" alt="Accuracy Chart">
+visualizes the model’s performance over time.
+- <img src="Loss.png" alt="TensorBoard Screenshot">
+shows training and validation curves.
 
 ## Dependencies
 - Python libraries: `torch`, `torchvision`, `numpy`, `pandas`, `tensorboard`.
