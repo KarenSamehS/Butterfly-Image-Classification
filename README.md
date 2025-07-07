@@ -23,7 +23,7 @@ A Computer Vision project developed during an internship to classify butterfly s
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Butterfly-Image-Classification.git
+   git clone https://github.com/KarenSamehS/Butterfly-Image-Classification.git
    cd Butterfly-Image-Classification
    ```
 2. Install dependencies:
